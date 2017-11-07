@@ -1,0 +1,24 @@
+{
+  "P17" : {
+    "mode" : "GPIO.IN",
+    "state" : "False",
+    "pwm" : "False",
+    "freq": "1000",
+    "dc" : "100"
+  },
+  "P18" : {
+    "mode" : "GPIO.IN",
+    "state" : "False",
+    "pwm" : "False",
+    "freq": "1000",
+    "dc" : "100"
+  },
+  "P27" : {
+    "mode" : "GPIO.IN",
+    "state" : "False",
+    "pwm" : "False",
+    "freq": "1000",
+    "dc" : "100"
+  }
+
+}

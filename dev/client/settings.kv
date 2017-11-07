@@ -1,0 +1,11 @@
+#:kivy 1.8.0
+#:import datetime datetime
+
+BoxLayout:
+    orientation: 'vertical'
+    Button:
+        text: 'Configure app (or press F1)'
+        on_release: app.open_settings()
+    Label:
+        id: label
+        text: 'Hello'
